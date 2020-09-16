@@ -5,6 +5,8 @@
 
 * Face, Eye and Motion Detection are a set of codes ('out of' can be 'outta', so can 'set of'  be 'setta'??) that detect peoples' faces\eyes and objects' motions using Python and OpenCV packages.
 
+* All videos are saved in codes' directory after the program ends. To end any program, press 'q' key.
+
 * Try out, change the code, publish, add in projects, and much more!!
 
 ----
