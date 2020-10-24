@@ -70,7 +70,7 @@ jupyter notebook
 
 ----
 ✉️ Contact ✉️
-Email: gabrielfelix08@outlook.com
+Email: csfelix08@gmail.com
 
 Linkedin: ---
 
