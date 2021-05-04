@@ -69,13 +69,13 @@ jupyter notebook
 * My next mission is make **Recongnition** with Detection using **MongoDB, Python, OpenCV, Java and HTML\CSS\JS**. Available coming soon...
 
 ----
-### `✉️ Contact ✉️`
+### `📫 Reach Me 📫`
 
-> **Email:** `csfelix08@gmail.com`
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** `linkedin.com/in/csfelix/`
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
 
-> **Instagram:** `instagram.com/c0deplus/`
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
