@@ -15,7 +15,7 @@
 * Camera (notebook, cellphone, webcams...);
 * Python 3.7 version or later;
 * OpenCV and Pandas packages;
-
+* Jupyter Notebook 7.2 version or later.
 
 ----
 ### `⚙️ Run ⚙️`
