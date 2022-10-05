@@ -12,6 +12,7 @@
 ----
 ### `⚒️ Tools ⚒️`
 
+* Camera (notebook, cellphone, webcams...);
 
 
 ----
