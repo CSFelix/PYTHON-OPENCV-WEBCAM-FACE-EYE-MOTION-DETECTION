@@ -14,6 +14,7 @@
 
 * Camera (notebook, cellphone, webcams...);
 * Python 3.7 version or later;
+* OpenCV and Pandas packages;
 
 
 ----
